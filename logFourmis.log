@@ -1,0 +1,89 @@
+2018-04-08 18:38:15.683 [main] INFO  gui.LancementProg - Le programme vient d'être lancer
+2018-04-08 18:38:15.689 [main] DEBUG objets.Terrain - Toutes les cellules ont été inialisées
+2018-04-08 18:38:15.689 [main] DEBUG objets.Terrain - Obstacle initialisée
+2018-04-08 18:38:15.689 [main] DEBUG parametres.Parametres - Terrain initialisé
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.690 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.691 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.691 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.691 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.691 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.691 [main] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:15.697 [main] INFO  parametres.Parametres - Ensemble Fourmis initialisé
+2018-04-08 18:38:15.698 [main] DEBUG parametres.Parametres - Fourmi n°0 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°1 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°2 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°3 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°4 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°5 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°6 crée
+2018-04-08 18:38:15.699 [main] DEBUG parametres.Parametres - Fourmi n°7 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°8 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°9 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°10 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°11 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°12 crée
+2018-04-08 18:38:15.700 [main] DEBUG parametres.Parametres - Fourmi n°13 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°14 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°15 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°16 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°17 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°18 crée
+2018-04-08 18:38:15.701 [main] DEBUG parametres.Parametres - Fourmi n°19 crée
+2018-04-08 18:38:15.702 [main] DEBUG parametres.Parametres - Fourmi n°20 crée
+2018-04-08 18:38:15.702 [main] DEBUG parametres.Parametres - Fourmi n°21 crée
+2018-04-08 18:38:15.702 [main] DEBUG parametres.Parametres - Fourmi n°22 crée
+2018-04-08 18:38:15.702 [main] DEBUG parametres.Parametres - Fourmi n°23 crée
+2018-04-08 18:38:15.702 [main] DEBUG parametres.Parametres - Fourmi n°24 crée
+2018-04-08 18:38:17.094 [AWT-EventQueue-0] INFO  gui.FenetreLancementSimulation - Simulation lancé
+2018-04-08 18:38:18.686 [AWT-EventQueue-0] INFO  gui.FenetreLancementSimulation - Simulation mis en pause
+2018-04-08 18:38:20.044 [AWT-EventQueue-0] INFO  gui.Fenetre - Simulation lancé
+2018-04-08 18:38:21.689 [AWT-EventQueue-0] INFO  gui.Fenetre - Simulation mis en pause
+2018-04-08 18:38:22.940 [AWT-EventQueue-0] DEBUG objets.Terrain - Toutes les cellules ont été inialisées
+2018-04-08 18:38:22.940 [AWT-EventQueue-0] DEBUG objets.Terrain - Obstacle initialisée
+2018-04-08 18:38:22.940 [AWT-EventQueue-0] DEBUG parametres.Parametres - Terrain reset
+2018-04-08 18:38:22.940 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.941 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG objets.Terrain - Sources de nourriture aléatoire générées
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°0 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°1 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°2 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°3 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°4 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°5 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°6 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°7 crée
+2018-04-08 18:38:22.942 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°8 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°9 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°10 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°11 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°12 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°13 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°14 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°15 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°16 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°17 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°18 crée
+2018-04-08 18:38:22.943 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°19 crée
+2018-04-08 18:38:22.944 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°20 crée
+2018-04-08 18:38:22.944 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°21 crée
+2018-04-08 18:38:22.944 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°22 crée
+2018-04-08 18:38:22.944 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°23 crée
+2018-04-08 18:38:22.944 [AWT-EventQueue-0] DEBUG parametres.Parametres - Fourmi n°24 crée
+2018-04-08 18:38:22.945 [AWT-EventQueue-0] INFO  gui.Fenetre - Terrain reset
+2018-04-08 18:38:24.907 [AWT-EventQueue-0] DEBUG objets.Terrain - Pheromone reset
+2018-04-08 18:38:24.908 [AWT-EventQueue-0] INFO  gui.Fenetre - Pheromone reset
